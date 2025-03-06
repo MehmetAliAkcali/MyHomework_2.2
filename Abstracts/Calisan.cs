@@ -1,4 +1,4 @@
- public abstract class Calisan
+ public abstract class Calisan:IMaaslariHesapla
     {
         public abstract double maasinizNedir();
     }
