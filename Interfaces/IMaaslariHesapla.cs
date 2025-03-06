@@ -1,4 +1,4 @@
 public interface IMaaslariHesapla
 {
-    double MaasinizNedir();
+    double maasinizNedir();
 }
